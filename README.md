@@ -18,7 +18,7 @@ Este é um projeto desenvolvido em **Python** como parte da certificação do [f
 1. Certifique-se de ter o Python instalado na sua máquina.
 2. Abra o terminal na pasta do projeto e execute o comando:
    ```bash
-   python Exercícios.py
+   python Validador-De-Perfil
    ```
 3. Insira as informações do funcionário no terminal e veja o resultado da validação!
 
